@@ -1,0 +1,18 @@
+.navLi {
+    margin: 5px;
+    list-style: none;
+}
+
+.navUl {
+    display: flex;
+}
+
+nav {
+    padding: 20px;
+    margin: 0;
+}
+
+.navLi a {
+     color: #222;
+     text-decoration: none;
+}
