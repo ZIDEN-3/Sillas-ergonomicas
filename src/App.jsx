@@ -1,8 +1,6 @@
 import { Routes, Route } from 'react-router-dom';
 import Inicio from './pages/Inicio';
 import NotFoundPage from './pages/NotFoundPage';
-import Productos from './pages/productos';
-import Contacto from './pages/contacto';
 import SillaOficina from './pages/SillaOficina';
 import SillaDeRodillas from './pages/SillaDeRodillas';
 import SillaEjecutiva from './pages/SillaEjecutiva';
@@ -12,7 +10,7 @@ import SillaReclinableReposapiés from './pages/SillaReclinableReposapiés';
 import SillaEconómica from './pages/SillaEconómicas';
 import SillaDeMalla from './pages/SillaDeMalla';
 import HermanMiller from './pages/HermanMiller';
-import SteelCaseSeries from './pages/SteelcaseSeries';
+import SteelCaseSeries from './pages/SteelCaseSeries';
 import SihooM57 from './pages/SihooM57';
 import HbadaErgonomic from './pages/Hbada';
 import NavBar from "./components/NavBar";
@@ -24,8 +22,6 @@ function App() {
     <NavBar/>
     <Routes>
       <Route path='/' element={<Inicio/>}></Route>
-      <Route path='/contacto' element={<Contacto/>}></Route>
-      <Route path='/productos' element={<Productos/>}></Route>
       <Route path='/Silla-ergonómica-de-oficina' element={<SillaOficina/>}></Route>
       <Route path='/Silla-ergonómica-Hbada-Ergonomic-Office-Chair' element={<HbadaErgonomic/>}></Route>
       <Route path='/Silla-ergonómica-Herman-Miller-Aereon' element={<HermanMiller/>}></Route>
