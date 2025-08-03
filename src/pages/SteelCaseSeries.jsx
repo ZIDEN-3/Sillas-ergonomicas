@@ -1,4 +1,4 @@
-import Sillademalla from '../images/sillademalla.png';
+import Steelcaseseries from '../images/steelcaseseries1.png';
 import '../styles/HermanMiller.css'
 
 function SteelCaseSeries () {
@@ -6,7 +6,7 @@ function SteelCaseSeries () {
    
    <div>
         <h1>Steelcase Series 1 </h1>
-         <div className='containerImg'><img src={Sillademalla} /></div>
+         <div className='containerImg'><img src={Steelcaseseries} /></div>
 <article className='caracteristicas'>
 
   <h1>Steelcase Series 1 – Rendimiento ergonómico sin compromisos</h1>

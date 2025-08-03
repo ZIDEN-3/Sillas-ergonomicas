@@ -1,4 +1,4 @@
-import Sillademalla from '../images/sillademalla.png';
+import Sillareclinable from '../images/sillareclinable.png';
 import '../styles/HermanMiller.css'
 
 
@@ -6,7 +6,7 @@ function SillaReclinableReposapiés () {
     return (
        <div>
          <h1>Silla ergonómica con reposapiés</h1>
-          <div className='containerImg'><img src={Sillademalla} /></div>
+          <div className='containerImg'><img src={Sillareclinable} /></div>
          <section>
   <h2>Sillas Ergonómicas con Reposapiés: Relajación y soporte en un solo lugar</h2>
 

@@ -1,11 +1,11 @@
-import Sillademalla from '../images/sillademalla.png';
+import Sillaeconomica from '../images/Sillaeconomica.png';
 import '../styles/HermanMiller.css'
 
 function SillaEconómica () {
     return (
         <div>
         <h1>Sillas ergonómicas económicas</h1>
-         <div className='containerImg'><img src={Sillademalla} /></div>
+         <div className='containerImg'><img src={Sillaeconomica} /></div>
         <section>
   <h2>Sillas Ergonómicas Económicas: Comodidad sin gastar de más</h2>
   <p>

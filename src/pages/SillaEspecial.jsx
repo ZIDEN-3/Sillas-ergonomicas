@@ -1,11 +1,11 @@
-import Sillademalla from '../images/sillademalla.png';
+import Sillaespecial from '../images/sillaespecial.png';
 import '../styles/HermanMiller.css'
 
 function SillaEspecial () {
     return (
         <div>
         <h1>Sillas ergonómicas especial</h1>
-         <div className='containerImg'><img src={Sillademalla} /></div>
+         <div className='containerImg'><img src={Sillaespecial} /></div>
         <section>
   <h2>Sillas Ergonómicas Especiales: Alternativas innovadoras para una mejor postura</h2>
   <p>
