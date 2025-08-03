@@ -4,7 +4,7 @@ import Sillaejecutiva from '../images/sillaejecutiva.png';
 import Sillagamer from '../images/sillagamer.png';
 import Sillademalla from '../images/sillademalla.png';
 
-import '../styles/Inicio.css';
+import '../styles/inicio.css';
 
 function Inicio () {
     return (
