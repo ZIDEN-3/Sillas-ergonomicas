@@ -1,11 +1,11 @@
-import Herman from '../images/Herman.jpg';
+import Sillademalla from '../images/sillademalla.png';
 import '../styles/HermanMiller.css'
 
 function SillaDeMalla () {
     return (
         <div>
         <h1>Silla ergonómica de malla</h1>
-         <div className='containerImg'><img src={Herman} /></div>s
+         <div className='containerImg'><img src={Sillademalla} /></div>
         <section>
   <h2>La Silla Ergonómica de Malla permite comodidad fresca para largas jornadas</h2>
   <p>

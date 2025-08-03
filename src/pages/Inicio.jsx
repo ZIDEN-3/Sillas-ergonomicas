@@ -1,5 +1,4 @@
 import TiposDeSillas from "../components/TiposDeSillas";
-import images from '../images/images.jpg';
 import Silladerodillas from '../images/silladerodillas.png';
 import Sillaejecutiva from '../images/sillaejecutiva.png';
 import Sillagamer from '../images/sillagamer.png';
