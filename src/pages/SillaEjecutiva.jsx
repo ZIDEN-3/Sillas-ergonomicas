@@ -1,10 +1,10 @@
-import Herman from '../images/Herman.jpg';
+import Sillaejecutiva from '../images/sillaejecutiva.png';
 import '../styles/HermanMiller.css'
 function SillaEjecutiva () {
     return (
         <div>
             <h1>Silla ergonómica ejecutiva</h1>
-             <div className='containerImg'><img src={Herman} /></div>
+             <div className='containerImg'><img src={Sillaejecutiva} /></div>
             <section>
   <h2>Silla Ergonómica Ejecutiva: Elegancia, confort y autoridad</h2>
 

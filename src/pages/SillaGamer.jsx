@@ -1,4 +1,4 @@
-import Herman from '../images/Herman.jpg';
+import Sillagamer from '../images/sillagamer.png';
 import '../styles/HermanMiller.css'
 
 
@@ -6,7 +6,7 @@ function SillaGamer () {
     return (
         <div>
         <h1>Silla ergonómica gamer</h1>
-         <div className='containerImg'><img src={Herman} /></div>
+         <div className='containerImg'><img src={Sillagamer} /></div>
         <section>
   <h2>Sillas Ergonómicas Gamer: Comodidad y estilo para sesiones largas</h2>
 
