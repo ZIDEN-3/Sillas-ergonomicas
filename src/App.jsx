@@ -1,6 +1,5 @@
 import { Routes, Route } from 'react-router-dom';
 import Inicio from './pages/Inicio';
-import Productos from './pages/Productos';
 import NotFoundPage from './pages/NotFoundPage';
 import SillaOficina from './pages/SillaOficina';
 import SillaDeRodillas from './pages/SillaDeRodillas';
@@ -23,8 +22,7 @@ function App() {
     <NavBar/>
     <Routes>
       <Route path='/' element={<Inicio/>}></Route>
-      <Route path='/productos' element={<Productos/>}></Route>
-      <Route path='/Silla-ergonómica-de-oficina' element={<SillaOficina/>}></Route>
+     <Route path='/Silla-ergonómica-de-oficina' element={<SillaOficina/>}></Route>
       <Route path='/Silla-ergonómica-Hbada-Ergonomic-Office-Chair' element={<HbadaErgonomic/>}></Route>
       <Route path='/Silla-ergonómica-Herman-Miller-Aereon' element={<HermanMiller/>}></Route>
       <Route path='/Silla-ergonómica-Steel-case-series-1' element={<SteelCaseSeries/>}></Route>
