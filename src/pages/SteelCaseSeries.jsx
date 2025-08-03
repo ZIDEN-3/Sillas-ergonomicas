@@ -1,4 +1,4 @@
-import Steelcaseseries from '../images/steelcaseseries1.png';
+import Steelcaseseries from '../images/steelcaseseries1.jpg';
 import '../styles/HermanMiller.css'
 
 function SteelCaseSeries () {
