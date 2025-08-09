@@ -5,14 +5,51 @@
 
 .navUl {
     display: flex;
+    align-items: center;
+   list-style: none;
+    margin-bottom: 110px;
+    
 }
-
+.navUlM {
+    list-style: none;
+    position: absolute;
+    padding: 0;
+    margin-left: 5px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+     gap: 5px;
+      z-index: 10;
+       background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    
+   
+}
 nav {
-    padding: 20px;
+    padding: 25px;
     margin: 0;
+    
 }
 
 .navLi a {
      color: #222;
+     
      text-decoration: none;
+     
+}
+
+.btn-nav {
+    margin:  0 40px;
+}
+
+.btn-nav:focus,
+.btn-nav:hover {
+    outline: none;
+    box-shadow: none;
+    border: none;
+}
+
+.navLiM {
+    text-decoration: none;
+    color: aliceblue;
 }

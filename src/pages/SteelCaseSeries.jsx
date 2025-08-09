@@ -1,3 +1,4 @@
+import Comprar from '../components/Comprar';
 import Steelcaseseries from '../images/steelcaseseries1.jpg';
 import '../styles/HermanMiller.css'
 
@@ -7,9 +8,11 @@ function SteelCaseSeries () {
    <div>
         <h1>Steelcase Series 1 </h1>
          <div className='containerImg'><img src={Steelcaseseries} /></div>
+         <Comprar
+         urlAmazon={"https://amzn.to/3HmqDxI"}/>
 <article className='caracteristicas'>
 
-  <h1>Steelcase Series 1 – Rendimiento ergonómico sin compromisos</h1>
+  <h2>La Steelcase Series 1 ofrece rendimiento ergonómico sin compromisos y es una de las mejores sillas ergonómicas calidad precio</h2>
 
   <p>
     La <strong>Steelcase Series 1</strong> es una de las sillas ergonómicas más completas dentro de su rango de precio. Está diseñada para personas que pasan largas horas frente al escritorio y necesitan un respaldo real para su salud postural, sin tener que invertir una fortuna. Combina <strong>tecnología ergonómica de verdad</strong>, ajustes personalizables y un diseño compacto que encaja incluso en espacios reducidos.
@@ -39,6 +42,7 @@ function SteelCaseSeries () {
   <p>
     Esta silla cuenta con <strong>reposabrazos ajustables en 4 direcciones</strong>: altura, anchura, profundidad y rotación. Ya sea que estés tipeando, usando el mouse o simplemente descansando, podés personalizar el ángulo perfecto para evitar tensión en los hombros y muñecas.
   </p>
+  <Comprar/>
   </article>
   <article className='caracteristicas'>
   <h2>Beneficios ergonómicos comprobados</h2>
@@ -50,6 +54,8 @@ function SteelCaseSeries () {
     <li className="lista1">Reduce la tensión acumulada en hombros y cuello.</li>
     <li className="lista1">Ideal para tareas prolongadas en computadora.</li>
   </ul>
+   <Comprar
+         urlAmazon={"https://amzn.to/3HmqDxI"}/>
 </article>
   <article className='caracteristicas'>
   <h2>Fácil de ajustar y personalizar</h2>
@@ -68,6 +74,8 @@ function SteelCaseSeries () {
   <p>
     Si buscás una silla ergonómica real que no sea simplemente "bonita", la Steelcase Series 1 es una de las mejores opciones del mercado. Ofrece un <strong>balance excelente entre calidad, confort, personalización y diseño</strong>. Una inversión inteligente que tu cuerpo agradecerá cada día.
   </p>
+  <Comprar urlAmazon={"https://amzn.to/3HmqDxI"}/>
+
   </article>
 
     </div>)

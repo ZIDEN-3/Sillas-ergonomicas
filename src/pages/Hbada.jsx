@@ -1,13 +1,11 @@
-import Sillademalla from '../images/sillademalla.png';
 import '../styles/HermanMiller.css'
-
+import VerEn from '../components/VerEn';
 
 function HbadaErgonomic () {
   return (
     <div>
       <h1>Hbada Ergonomic Office Chair</h1>
-       <div className='containerImg'><img src={Sillademalla} /></div>
-      <section>
+       <section>
          <article className="caracteristicas">
   <h2>Hbada Ergonomic Office Chair: Minimalismo, comodidad y diseño compacto</h2>
   <p>
@@ -17,6 +15,8 @@ function HbadaErgonomic () {
   <p>
     Si estás buscando una silla cómoda para trabajar o estudiar sin ocupar demasiado espacio, esta opción ofrece una solución práctica y elegante.
   </p>
+  <VerEn 
+  urlWebsite="https://www.hbada.eu/es"/>
 </article>
 <article className="caracteristicas">
   <h3>Características principales de la Hbada</h3>
@@ -61,7 +61,11 @@ function HbadaErgonomic () {
 
   <p><strong>¿La silla es fácil de armar?</strong></p>
   <p>Sí. Viene con instrucciones claras y herramientas incluidas. El armado demora entre 15 y 20 minutos.</p>
+ <VerEn 
+  urlWebsite="https://www.hbada.eu/es"/>
+
 </article>
+
 </section>
 
     </div>

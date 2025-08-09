@@ -3,6 +3,15 @@ import Silladerodillas from '../images/silladerodillas.png';
 import Sillaejecutiva from '../images/sillaejecutiva.png';
 import Sillagamer from '../images/sillagamer.png';
 import Sillademalla from '../images/sillademalla.png';
+import Sillaeconomica from '../images/Sillaeconomica.png';
+import Sillaespecial from '../images/sillaespecial.png';
+import Steelcaseseries from '../images/steelcaseseries1.jpg';
+import SihooM18 from '../images/SihooM18.jpg';
+import Sillaconreposapies from '../images/sillareposapies.png';
+import Songmics from '../images/songmics.jpg';
+import ErgoHuman from '../images/ErgoHuman.jpg';
+import SilldeOficina from '../images/silladeoficina.png';
+
 
 import '../styles/inicio.css';
 
@@ -11,40 +20,40 @@ function Inicio () {
         <>
         <article>
             <header>
-                <h1>Mejores Sillas ergonómicas para el 2025</h1>
+                <h1>Mejores Sillas ergonómicas de oficina para el 2025</h1>
             </header>
             <section>
                 <div className="container">
                     <TiposDeSillas
-                     Nombre=' Herman Miller Aeron'
-                     srcImagen={Sillademalla}
+                     Nombre='Songmics OBN86BK'
+                     srcImagen={Songmics}
                      altImagen='Silla ergonomica'
-                     Pagina='/Silla-ergonómica-Herman-Miller-Aereon'
+                     Pagina='/Silla-ergonómica-Songmics-OBN86BK'
                      />
                      <TiposDeSillas
                      Nombre='Steelcase Series 1'
-                     srcImagen={Sillademalla}
+                     srcImagen={Steelcaseseries}
                      altImagen='Silla ergonomica'
                      Pagina='./Silla-ergonómica-Steel-case-series-1'
                      />
                      <TiposDeSillas
                      Nombre='Sihoo M57'
-                     srcImagen={Sillademalla}
+                     srcImagen={SihooM18}
                      altImagen='Silla ergonomica'
-                     Pagina='/Silla-ergonómica-Sihoo-M57'
+                     Pagina='/Silla-ergonómica-Sihoo-M18'
                      />
                      <TiposDeSillas
-                     Nombre='Hbada Ergonomic Office Chair'
-                     srcImagen={Sillademalla}
+                     Nombre='hjh OFFICE Ergo Line W'
+                     srcImagen={ErgoHuman}
                      altImagen='Silla ergonomica'
-                     Pagina='/Silla-ergonómica-Hbada-Ergonomic-Office-Chair'
+                     Pagina='/Silla-ergonómica-ErgoHuman'
                      />
                 </div>
             </section>
             <section>
                 <h2>Tipos de sillas ergonómicas</h2>
                 <p>Las sillas ergonómicas son aquellas que se adaptan a la forma del cuerpo humano, 
-                    proporcionando comodidad y soporte adecuado para 
+                    proporcionando comodidad, salud y soporte adecuado para 
                     largas horas de trabajo o estudio. 
                     Existen varios tipos de sillas ergonómicas, 
                     cada una diseñada para satisfacer diferentes necesidades y
@@ -52,7 +61,7 @@ function Inicio () {
                      <div className="container">
                         <TiposDeSillas
                      Nombre='Sillas ergonómicas de oficina clásica'
-                     srcImagen={Sillademalla}
+                     srcImagen={SilldeOficina}
                      altImagen='Silla ergonomica'
                      Pagina='/Silla-ergonómica-de-oficina'
                      />
@@ -70,13 +79,13 @@ function Inicio () {
                      />
                      <TiposDeSillas
                      Nombre='Sillas ergonómicas económicas'
-                     srcImagen={Sillademalla}
+                     srcImagen={Sillaeconomica}
                      altImagen='Silla ergonomica'
                      Pagina='/Sillas-ergonómicas-económicas'
                      />
                      <TiposDeSillas
                      Nombre='Sillas ergonómicas especiales'
-                     srcImagen={Sillademalla}
+                     srcImagen={Sillaespecial}
                      altImagen='Silla ergonomica'
                      Pagina='/Silla-ergonómica-especial'
                      />
@@ -94,7 +103,7 @@ function Inicio () {
                      />
                      <TiposDeSillas
                      Nombre='Silla ergonómica reclinable con reposapiés'
-                     srcImagen={Sillademalla}
+                     srcImagen={Sillaconreposapies}
                      altImagen='Silla ergonomica'
                      Pagina='/Silla-ergonómica-reclinable-con-reposapiés'
                      />
