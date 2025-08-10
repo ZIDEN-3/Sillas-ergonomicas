@@ -1,16 +1,16 @@
 import TiposDeSillas from "../components/TiposDeSillas";
-import Silladerodillas from '../images/silladerodillas.png';
-import Sillaejecutiva from '../images/sillaejecutiva.png';
-import Sillagamer from '../images/sillagamer.png';
-import Sillademalla from '../images/sillademalla.png';
-import Sillaeconomica from '../images/Sillaeconomica.png';
-import Sillaespecial from '../images/sillaespecial.png';
+import Silladerodillas from '../images/silladerodillas.webp';
+import Sillaejecutiva from '../images/sillaejecutiva.webp';
+import Sillagamer from '../images/sillagamer.webp';
+import Sillademalla from '../images/sillademalla.webp';
+import Sillaeconomica from '../images/Sillaeconomica.webp';
+import Sillaespecial from '../images/sillaespecial.webp';
 import Steelcaseseries from '../images/steelcaseseries1.jpg';
 import SihooM18 from '../images/SihooM18.jpg';
-import Sillaconreposapies from '../images/sillareposapies.png';
+import Sillaconreposapies from '../images/sillareclinable.webp';
 import Songmics from '../images/songmics.jpg';
 import ErgoHuman from '../images/ErgoHuman.jpg';
-import SilldeOficina from '../images/silladeoficina.png';
+import SilldeOficina from '../images/silladeoficina.webp';
 
 
 import '../styles/inicio.css';
@@ -37,7 +37,7 @@ function Inicio () {
                      Pagina='./Silla-ergonómica-Steel-case-series-1'
                      />
                      <TiposDeSillas
-                     Nombre='Sihoo M57'
+                     Nombre='Sihoo M18'
                      srcImagen={SihooM18}
                      altImagen='Silla ergonomica'
                      Pagina='/Silla-ergonómica-Sihoo-M18'

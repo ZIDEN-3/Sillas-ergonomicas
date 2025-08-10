@@ -1,4 +1,4 @@
-import Sillaeconomica from '../images/Sillaeconomica.png';
+import Sillaeconomica from '../images/Sillaeconomica.webp';
 import '../styles/HermanMiller.css'
 
 function SillaEconómica () {

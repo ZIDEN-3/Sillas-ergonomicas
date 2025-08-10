@@ -1,4 +1,4 @@
-import Sillarodillas from '../images/silladerodillas.png';
+import Sillarodillas from '../images/silladerodillas.webp';
 import '../styles/HermanMiller.css'
 
 function SillaDeRodillas () {

@@ -1,4 +1,4 @@
-import Sillaejecutiva from '../images/sillaejecutiva.png';
+import Sillaejecutiva from '../images/sillaejecutiva.webp';
 import '../styles/HermanMiller.css'
 function SillaEjecutiva () {
     return (

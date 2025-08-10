@@ -1,4 +1,3 @@
-import Sillademalla from '../images/sillademalla.png';
 import '../styles/HermanMiller.css'
 
 
@@ -10,7 +9,6 @@ function HermanMiller () {
 
   <section className="container1">
     <div className="containerImg">
-      <img src={Sillademalla} alt="Silla Herman Miller Aeron" />
     </div>
      <article className="caracteristicas">
     <h1>Herman Miller Aeron – Silla Ergonómica de Alta Gama</h1>

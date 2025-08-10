@@ -1,4 +1,4 @@
-import Sillademalla from '../images/sillademalla.png';
+import Sillademalla from '../images/sillademalla.webp';
 import '../styles/HermanMiller.css'
 
 function SillaDeMalla () {

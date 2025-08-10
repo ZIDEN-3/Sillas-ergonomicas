@@ -1,4 +1,4 @@
-import Sillaespecial from '../images/sillaespecial.png';
+import Sillaespecial from '../images/sillaespecial.webp';
 import '../styles/HermanMiller.css'
 
 function SillaEspecial () {

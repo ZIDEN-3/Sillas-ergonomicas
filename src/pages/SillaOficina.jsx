@@ -1,4 +1,4 @@
-import SilladeOficina from '../images/silladeoficina.png';
+import SilladeOficina from '../images/silladeoficina.webp';
 import '../styles/HermanMiller.css'
 
 function SillaOficina () {

@@ -5,7 +5,7 @@ function TiposDeSillas ( { Nombre, altImagen, Pagina, srcImagen}) {
     return (
         <div className='TiposDeSillas'>
             <Link to={Pagina}><img className="TiposImagen" src={srcImagen} alt={altImagen}/></Link>
-            <h3 className="TiposNombre">{Nombre}</h3>
+            <h2 className="TiposNombre">{Nombre}</h2>
         </div>
     )
 }

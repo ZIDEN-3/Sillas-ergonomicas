@@ -1,4 +1,4 @@
-import Sillagamer from '../images/sillagamer.png';
+import Sillagamer from '../images/sillagamer.webp';
 import '../styles/HermanMiller.css'
 
 

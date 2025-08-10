@@ -1,4 +1,4 @@
-import Sillareclinable from '../images/sillareclinable.png';
+import Sillareclinable from '../images/sillareclinable.webp';
 import '../styles/HermanMiller.css'
 
 
