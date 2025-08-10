@@ -4,7 +4,7 @@ import Sillaejecutiva from '../images/sillaejecutiva.webp';
 import Sillagamer from '../images/sillagamer.webp';
 import Sillademalla from '../images/sillademalla.webp';
 import Sillaeconomica from '../images/Sillaeconomica.webp';
-import Sillaespecial from '../images/sillaespecial.webp';
+import Sillaespecial from '../images/Sillaespecial.webp';
 import Steelcaseseries from '../images/steelcaseseries1.jpg';
 import SihooM18 from '../images/SihooM18.jpg';
 import Sillaconreposapies from '../images/sillareclinable.webp';
