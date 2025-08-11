@@ -78,6 +78,8 @@ function ErgoHuman() {
 
           <p><strong>¿Viene armada?</strong></p>
           <p>No. Se entrega desarmada, pero el montaje es simple e incluye herramientas e instrucciones claras.</p>
+        <p><strong>¿Precio?</strong></p>
+          <p>Alrededor de 425,90€ en amazon.es</p>
         <Comprar
          urlAmazon={"https://amzn.to/40RqGsc"}/>
 

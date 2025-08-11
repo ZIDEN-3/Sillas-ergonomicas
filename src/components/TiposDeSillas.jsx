@@ -3,10 +3,10 @@ import '../styles/TiposDeSillas.css'
 
 function TiposDeSillas ( { Nombre, altImagen, Pagina, srcImagen}) {
     return (
-        <div className='TiposDeSillas'>
-            <Link to={Pagina}><img className="TiposImagen" src={srcImagen} alt={altImagen}/></Link>
+       <Link to={Pagina}> <div className='TiposDeSillas'>
+            <img className="TiposImagen" src={srcImagen} alt={altImagen}/>
             <h2 className="TiposNombre">{Nombre}</h2>
-        </div>
+        </div></Link>
     )
 }
 
