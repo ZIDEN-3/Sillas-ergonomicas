@@ -18,12 +18,12 @@ const AbrirMenu = () => {
             <button className='btn-nav' onClick={AbrirMenu}>Marcas▾</button>
           {isOpen && (
           <ul className='navUlM'>
-            <li className='navLi'><Link to='/Silla-ergonómica-Herman-Miller'>Herman Miller</Link></li>
-            <li className='navLi'><Link to='/Silla-ergonómica-Steel-case-series-1'>Steel Case</Link></li>
-              <li className='navLi'><Link to='/Silla-ergonómica-Sihoo-M18'>Sihoo</Link></li>
-            <li className='navLi'><Link to='/Silla-ergonómica-Songmics-OBN86BK'>Songmics</Link></li>
-            <li className='navLi'><Link to='/Silla-ergonómica-ErgoHuman'>Ergo Human</Link></li>
-            <li className='navLi'><Link to='/Silla-ergonómica-Hbada-Ergonomic-Office-Chair'>Hbada</Link></li>
+            <li className='navLi'><Link to='/Silla-ergonomica-Herman-Miller'>Herman Miller</Link></li>
+            <li className='navLi'><Link to='/Silla-ergonomica-Steel-case-series-1'>Steel Case</Link></li>
+              <li className='navLi'><Link to='/Silla-ergonomica-Sihoo-M18'>Sihoo</Link></li>
+            <li className='navLi'><Link to='/Silla-ergonomica-Songmics-OBN86BK'>Songmics</Link></li>
+            <li className='navLi'><Link to='/Silla-ergonomica-ErgoHuman'>Ergo Human</Link></li>
+            <li className='navLi'><Link to='/Silla-ergonomica-Hbada-Ergonomic-Office-Chair'>Hbada</Link></li>
           </ul>
           )}
           

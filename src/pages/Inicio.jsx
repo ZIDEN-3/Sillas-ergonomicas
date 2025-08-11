@@ -28,25 +28,25 @@ function Inicio () {
                      Nombre='Songmics OBN86BK'
                      srcImagen={Songmics}
                      altImagen='Silla ergonómica Songmics OBN86BK'
-                     Pagina='/Silla-ergonómica-Songmics-OBN86BK'
+                     Pagina='/Silla-ergonomica-Songmics-OBN86BK'
                      />
                      <TiposDeSillas
                      Nombre='Steelcase Series 1'
                      srcImagen={Steelcaseseries}
                      altImagen='Silla ergonómica Steelcase Series 1'
-                     Pagina='./Silla-ergonómica-Steel-case-series-1'
+                     Pagina='./Silla-ergonomica-Steel-case-series-1'
                      />
                      <TiposDeSillas
                      Nombre='Sihoo M18'
                      srcImagen={SihooM18}
                      altImagen='Silla ergonómica Sihoo M18'
-                     Pagina='/Silla-ergonómica-Sihoo-M18'
+                     Pagina='/Silla-ergonomica-Sihoo-M18'
                      />
                      <TiposDeSillas
                      Nombre='hjh OFFICE Ergo Line W'
                      srcImagen={ErgoHuman}
                      altImagen='Silla ergonómica ErgoHuman'
-                     Pagina='/Silla-ergonómica-ErgoHuman'
+                     Pagina='/Silla-ergonomica-ErgoHuman'
                      />
                 </div>
             </section>
@@ -63,49 +63,49 @@ function Inicio () {
                      Nombre='Sillas ergonómicas de oficina clásica'
                      srcImagen={SilldeOficina}
                      altImagen='Silla ergonómica de oficina'
-                     Pagina='/Silla-ergonómica-de-oficina'
+                     Pagina='/Silla-ergonomica-de-oficina'
                      />
                      <TiposDeSillas
                      Nombre='Sillas ergonómicas de rodillas (kneeling chair)'
                      srcImagen={Silladerodillas}
                      altImagen='Silla ergonómica de rodillas'
-                     Pagina='/Silla-ergonómica-de-rodillas'
+                     Pagina='/Silla-ergonomica-de-rodillas'
                      />
                      <TiposDeSillas
                      Nombre='Sillas ergonómicas de malla'
                      srcImagen={Sillademalla}
                      altImagen='Silla ergonómica de malla'
-                     Pagina='/Silla-ergonómica-de-malla'
+                     Pagina='/Silla-ergonomica-de-malla'
                      />
                      <TiposDeSillas
                      Nombre='Sillas ergonómicas económicas'
                      srcImagen={Sillaeconomica}
                      altImagen='Silla ergonómica economica'
-                     Pagina='/Sillas-ergonómicas-económicas'
+                     Pagina='/Sillas-ergonomicas-económicas'
                      />
                      <TiposDeSillas
                      Nombre='Sillas ergonómicas especiales'
                      srcImagen={Sillaespecial}
                      altImagen='Silla ergonómica especiales'
-                     Pagina='/Silla-ergonómica-especial'
+                     Pagina='/Silla-ergonomica-especial'
                      />
                       <TiposDeSillas
                      Nombre='Sillas ergonómicas gamer'
                      srcImagen={Sillagamer}
                      altImagen='Silla ergonómica gamer'
-                     Pagina='/Silla-gamer-ergonómica'
+                     Pagina='/Silla-gamer-ergonomica'
                      />
                       <TiposDeSillas
                      Nombre='Sillas ergonómicas ejecutivas'
                      srcImagen={Sillaejecutiva}
                      altImagen='Silla ergonómica ejecutiva'
-                     Pagina='/Silla-ergonómica-ejecutiva'
+                     Pagina='/Silla-ergonomica-ejecutiva'
                      />
                      <TiposDeSillas
                      Nombre='Silla ergonómica reclinable con reposapiés'
                      srcImagen={Sillaconreposapies}
                      altImagen='Silla ergonómica con reposapies'
-                     Pagina='/Silla-ergonómica-reclinable-con-reposapiés'
+                     Pagina='/Silla-ergonomica-reclinable-con-reposapiés'
                      />
                      </div>
             </section>

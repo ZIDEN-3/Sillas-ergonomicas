@@ -27,20 +27,20 @@ function App() {
     <NavBar/>
     <Routes>
       <Route path='/' element={<Inicio/>}></Route>
-      <Route path='/Silla-ergonómica-Herman-Miller' element={<HermanMiller/>}></Route>
-     <Route path='/Silla-ergonómica-ErgoHuman' element={<ErgoHuman/>}></Route>
-     <Route path='/Silla-ergonómica-de-oficina' element={<SillaOficina/>}></Route>
-      <Route path='/Silla-ergonómica-Hbada-Ergonomic-Office-Chair' element={<HbadaErgonomic/>}></Route>
-      <Route path='/Silla-ergonómica-Songmics-OBN86BK' element={<SongmicsOBN86BK/>}></Route>
-      <Route path='/Silla-ergonómica-Steel-case-series-1' element={<SteelCaseSeries/>}></Route>
-      <Route path='/Silla-ergonómica-Sihoo-M18' element={<SihooM18/>}></Route>
-      <Route path='/Silla-ergonómica-de-rodillas' element={<SillaDeRodillas/>}></Route>
-      <Route path='/Silla-ergonómica-de-malla' element={<SillaDeMalla/>}></Route>
-      <Route path='/Sillas-ergonómicas-económicas' element={<SillaEconómica/>}></Route>
-      <Route path='/Silla-ergonómica-especial' element={<SillaEspecial/>}></Route>
-      <Route path='/Silla-gamer-ergonómica' element={<SillaGamer/>}></Route>
-      <Route path='/Silla-ergonómica-ejecutiva' element={<SillaEjecutiva/>}></Route>
-      <Route path='/Silla-ergonómica-reclinable-con-reposapiés' element={<SillaReclinableReposapiés/>}></Route>
+      <Route path='/Silla-ergonomica-Herman-Miller' element={<HermanMiller/>}></Route>
+     <Route path='/Silla-ergonomica-ErgoHuman' element={<ErgoHuman/>}></Route>
+     <Route path='/Silla-ergonomica-de-oficina' element={<SillaOficina/>}></Route>
+      <Route path='/Silla-ergonomica-Hbada-Ergonomic-Office-Chair' element={<HbadaErgonomic/>}></Route>
+      <Route path='/Silla-ergonomica-Songmics-OBN86BK' element={<SongmicsOBN86BK/>}></Route>
+      <Route path='/Silla-ergonomica-Steel-case-series-1' element={<SteelCaseSeries/>}></Route>
+      <Route path='/Silla-ergonomica-Sihoo-M18' element={<SihooM18/>}></Route>
+      <Route path='/Silla-ergonomica-de-rodillas' element={<SillaDeRodillas/>}></Route>
+      <Route path='/Silla-ergonomica-de-malla' element={<SillaDeMalla/>}></Route>
+      <Route path='/Sillas-ergonomicas-económicas' element={<SillaEconómica/>}></Route>
+      <Route path='/Silla-ergonomica-especial' element={<SillaEspecial/>}></Route>
+      <Route path='/Silla-gamer-ergonomica' element={<SillaGamer/>}></Route>
+      <Route path='/Silla-ergonomica-ejecutiva' element={<SillaEjecutiva/>}></Route>
+      <Route path='/Silla-ergonomica-reclinable-con-reposapiés' element={<SillaReclinableReposapiés/>}></Route>
       <Route path='*' element={<NotFoundPage/>}></Route>
     </Routes>
     <Analytics />
