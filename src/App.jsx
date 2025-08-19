@@ -16,6 +16,7 @@ import ErgoHuman from './pages/ErgoHuman';
 import HbadaErgonomic from './pages/Hbada';
 import HermanMiller from './pages/HermanMiller';
 import NavBar from "./components/NavBar";
+import Footer from "./components/Footer";
 import './App.css';
 import { Analytics } from "@vercel/analytics/react"
 import { SpeedInsights } from "@vercel/speed-insights/react"
@@ -36,13 +37,14 @@ function App() {
       <Route path='/Silla-ergonomica-Sihoo-M18' element={<SihooM18/>}></Route>
       <Route path='/Silla-ergonomica-de-rodillas' element={<SillaDeRodillas/>}></Route>
       <Route path='/Silla-ergonomica-de-malla' element={<SillaDeMalla/>}></Route>
-      <Route path='/Sillas-ergonomicas-económicas' element={<SillaEconómica/>}></Route>
+      <Route path='/Sillas-ergonomicas-economicas' element={<SillaEconómica/>}></Route>
       <Route path='/Silla-ergonomica-especial' element={<SillaEspecial/>}></Route>
       <Route path='/Silla-gamer-ergonomica' element={<SillaGamer/>}></Route>
       <Route path='/Silla-ergonomica-ejecutiva' element={<SillaEjecutiva/>}></Route>
-      <Route path='/Silla-ergonomica-reclinable-con-reposapiés' element={<SillaReclinableReposapiés/>}></Route>
+      <Route path='/Silla-ergonomica-reclinable-con-reposapies' element={<SillaReclinableReposapiés/>}></Route>
       <Route path='*' element={<NotFoundPage/>}></Route>
     </Routes>
+    <Footer/>
     <Analytics />
     <SpeedInsights />
     </>

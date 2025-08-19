@@ -11,6 +11,7 @@ import Sillaconreposapies from '../images/sillareclinable.webp';
 import Songmics from '../images/songmics.jpg';
 import ErgoHuman from '../images/ErgoHuman.jpg';
 import SilldeOficina from '../images/silladeoficina.webp';
+import '../styles/HermanMiller.css'
 
 
 import '../styles/inicio.css';
@@ -51,6 +52,7 @@ function Inicio () {
                 </div>
             </section>
             <section>
+                <article className="caracteristicas">
                 <h2>Tipos de sillas ergonómicas</h2>
                 <p>Las sillas ergonómicas son aquellas que se adaptan a la forma del cuerpo humano, 
                     proporcionando comodidad, salud y soporte adecuado para 
@@ -58,6 +60,7 @@ function Inicio () {
                     Existen varios tipos de sillas ergonómicas, 
                     cada una diseñada para satisfacer diferentes necesidades y
                      preferencias.</p>
+                     </article>
                      <div className="container">
                         <TiposDeSillas
                      Nombre='Sillas ergonómicas de oficina clásica'
@@ -81,7 +84,7 @@ function Inicio () {
                      Nombre='Sillas ergonómicas económicas'
                      srcImagen={Sillaeconomica}
                      altImagen='Silla ergonómica economica'
-                     Pagina='/Sillas-ergonomicas-económicas'
+                     Pagina='/Sillas-ergonomicas-economicas'
                      />
                      <TiposDeSillas
                      Nombre='Sillas ergonómicas especiales'
@@ -105,7 +108,7 @@ function Inicio () {
                      Nombre='Silla ergonómica reclinable con reposapiés'
                      srcImagen={Sillaconreposapies}
                      altImagen='Silla ergonómica con reposapies'
-                     Pagina='/Silla-ergonomica-reclinable-con-reposapiés'
+                     Pagina='/Silla-ergonomica-reclinable-con-reposapies'
                      />
                      </div>
             </section>

@@ -35,9 +35,7 @@ function ErgoHuman() {
             <li className='lista1'><strong>Apoyabrazos 3D:</strong> ajustables en altura, ancho y ángulo.</li>
             <li className='lista1'><strong>Tapizado en tela gris oscuro resistente:</strong> elegante, profesional y fácil de mantener.</li>
           </ul>
-           <Comprar
-         urlAmazon={"https://amzn.to/40RqGsc"}/>
-
+           
         </article>
 
         <article className="caracteristicas">
