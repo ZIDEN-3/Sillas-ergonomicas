@@ -1,4 +1,4 @@
-import ImgSihooM18 from '../images/SihooM18.jpg';
+import ImgSihooM18 from '../images/SihooM18.webp';
 import Comprar from '../components/Comprar';
 
 

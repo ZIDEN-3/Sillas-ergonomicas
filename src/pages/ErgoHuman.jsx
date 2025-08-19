@@ -1,4 +1,4 @@
-import ImgErgoHuman from '../images/ErgoHuman.jpg';
+import ImgErgoHuman from '../images/ErgoHuman.webp';
 import Comprar from '../components/Comprar';
 
 import '../styles/HermanMiller.css';

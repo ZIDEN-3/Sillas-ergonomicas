@@ -1,4 +1,4 @@
-import Songmics from '../images/songmics.jpg';
+import Songmics from '../images/songmics.webp';
 import Comprar from '../components/Comprar';
 
 

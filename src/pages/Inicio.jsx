@@ -5,11 +5,11 @@ import Sillagamer from '../images/sillagamer.webp';
 import Sillademalla from '../images/sillademalla.webp';
 import Sillaeconomica from '../images/Sillaeconomica.webp';
 import Sillaespecial from '../images/Sillaespecial.webp';
-import Steelcaseseries from '../images/steelcaseseries1.jpg';
-import SihooM18 from '../images/SihooM18.jpg';
+import Steelcaseseries from '../images/steelcaseseries1.webp';
+import SihooM18 from '../images/SihooM18.webp';
 import Sillaconreposapies from '../images/sillareclinable.webp';
-import Songmics from '../images/songmics.jpg';
-import ErgoHuman from '../images/ErgoHuman.jpg';
+import Songmics from '../images/songmics.webp';
+import ErgoHuman from '../images/ErgoHuman.webp';
 import SilldeOficina from '../images/silladeoficina.webp';
 import '../styles/HermanMiller.css'
 

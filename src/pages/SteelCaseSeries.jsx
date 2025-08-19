@@ -1,5 +1,5 @@
 import Comprar from '../components/Comprar';
-import Steelcaseseries from '../images/steelcaseseries1.jpg';
+import Steelcaseseries from '../images/steelcaseseries1.webp';
 import '../styles/HermanMiller.css'
 
 function SteelCaseSeries () {
