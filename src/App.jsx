@@ -16,7 +16,7 @@ import ErgoHuman from './pages/ErgoHuman';
 import HbadaErgonomic from './pages/Hbada';
 import HermanMiller from './pages/HermanMiller';
 import NavBar from "./components/NavBar";
-import Footer from "./components/Footer";
+import Footer from './components/Footer'
 import './App.css';
 import { Analytics } from "@vercel/analytics/react"
 import { SpeedInsights } from "@vercel/speed-insights/react"
