@@ -5,7 +5,7 @@ footer {
    width: 100vw; /* ocupa todo el ancho visible */
   margin-left: calc(-50vw + 50%); /* lo “saca” del centrado */
    height: 125px;
-    overflow-x: hidden;
+    
    position: relative;
   margin-top: 100px;
   display: flex;

@@ -7,6 +7,7 @@ function SillaEconómica () {
         <h1>Sillas ergonómicas económicas</h1>
          <div className='containerImg'><img src={Sillaeconomica} /></div>
         <section>
+          <article className='caracteristicas'>
   <h2>Sillas Ergonómicas Económicas: Comodidad sin gastar de más</h2>
   <p>
     Tener una buena postura mientras trabajás o estudiás no debería ser un lujo. Las <strong>sillas ergonómicas económicas</strong> ofrecen una solución accesible para quienes buscan mejorar su salud postural sin invertir grandes sumas de dinero.
@@ -16,7 +17,8 @@ function SillaEconómica () {
   <p>
     Aunque no cuentan con los materiales premium o la tecnología avanzada de modelos de gama alta, muchas sillas ergonómicas asequibles incorporan funciones clave como respaldo reclinable, soporte lumbar básico y asiento acolchado. Lo importante es encontrar un modelo que ofrezca lo esencial: comodidad, estabilidad y un diseño que cuide tu espalda.
   </p>
-
+  </article>
+<article className='caracteristicas'>
   <h3>Características comunes en esta categoría</h3>
   <ul className='ul1'>
     <li className='lista1'><strong>Altura regulable:</strong> se adapta a diferentes escritorios.</li>
@@ -24,7 +26,8 @@ function SillaEconómica () {
     <li className='lista1'><strong>Materiales simples:</strong> como tela o malla sintética, con estructuras plásticas resistentes.</li>
     <li className='lista1'><strong>Apoyabrazos fijos o abatibles:</strong> según el modelo.</li>
   </ul>
-
+  </article>
+<article className='caracteristicas'>
   <h3>Ventajas de elegir una opción económica</h3>
   <p>
     Estas sillas son ideales para presupuestos ajustados, oficinas compartidas, puestos de trabajo temporales o personas que recién comienzan a equipar su espacio. Suelen ser livianas, fáciles de armar y prácticas para el uso diario.
@@ -38,6 +41,7 @@ function SillaEconómica () {
   <p>
     No hace falta gastar mucho para sentarse bien y conseguir buena postura y comodidad. Las <strong>sillas ergonómicas económicas</strong> son una excelente opción para mejorar tu postura y cuidar tu cuerpo día a día, sin salirte del presupuesto.
   </p>
+  </article>
 </section>
 
 

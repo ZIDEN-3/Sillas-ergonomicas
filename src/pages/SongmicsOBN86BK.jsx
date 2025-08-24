@@ -36,8 +36,7 @@ function SongmicsOBN86BK() {
             <li className='lista1'><strong>Reclinación con bloqueo:</strong> el respaldo puede inclinarse para momentos de descanso.</li>
             <li className='lista1'><strong>Tapizado en PU resistente:</strong> fácil de limpiar, duradero y con un acabado elegante.</li>
           </ul>
-           <Comprar
-     urlAmazon="https://amzn.to/45qMex7"/>
+         
      
         </article>
 
@@ -46,6 +45,8 @@ function SongmicsOBN86BK() {
           <p>
             Si querés una silla con <strong>estética ejecutiva, respaldo alto y buena durabilidad</strong>, sin gastar lo que cuesta una silla premium, la OBN86BK es una opción destacada en su gama.
           </p>
+            <Comprar
+     urlAmazon="https://amzn.to/45qMex7"/>
         </article>
 
         <article className="caracteristicas">
@@ -60,9 +61,7 @@ function SongmicsOBN86BK() {
             <li className='lista1'>Es una de las mejores sillas ergonómicas para oficina tradicional</li>
             <li className='lista1'>Es una de las mejores sillas ergonómicas con respaldo acolchado</li>
           </ul>
-           <Comprar
-     urlAmazon="https://amzn.to/45qMex7"/>
-     
+          
         </article>
 
         <article className="caracteristicas">

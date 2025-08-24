@@ -14,6 +14,7 @@ body {
    font-family: 'Roboto', 'Segoe UI', Arial, sans-serif;
     background: #f7f8fa;
     color: #222;
+    overflow-x: hidden;
 
 }
 
